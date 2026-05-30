@@ -1,4 +1,6 @@
+import NotificationsPage from './Notifications';
+
 function App(){
-  return (<></>);
+  return (<NotificationsPage />);
 }
 export default App;
